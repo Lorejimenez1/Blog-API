@@ -1,0 +1,14 @@
+{
+  "name": "blog-api-v1",
+  "version": "1.0.0",
+  "description": "Crud API",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "uuid": "^3.3.2"
+  }
+}
